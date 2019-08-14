@@ -37,3 +37,7 @@ Progress
  
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions2.jpg)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions%201.jpg)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions.jpg)|
 > |---|---|---|
+
+> Important codes:
+  ```./darknet detect cfg/yolov3.cfg yolov3.weights
+  ```
