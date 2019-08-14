@@ -1,5 +1,7 @@
 # 🎓 MSc Dissertation
 
+    Start from 13-August-2019. 
+  
 Project Title: 
 -----
 Computational Imaging and Detection via Deep Learning
