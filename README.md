@@ -33,8 +33,8 @@ Progress
 
 > Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
 
-<img src="https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions2.jpg" width="300" height="450" />
+
  
-> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions2.jpg)|![image]
+> |![image](<img src="https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions2.jpg" width="600" height="450" />)|![image]
 (https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions%201.jpg)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions.jpg)|
 > |---|---|---|
