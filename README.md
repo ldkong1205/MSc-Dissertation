@@ -21,6 +21,6 @@ References:
 
 <li> Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks''. [PDF] (https://arxiv.org/abs/1506.01497)
 </ol>
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
 
+[emoji](./emoji.md)
 
