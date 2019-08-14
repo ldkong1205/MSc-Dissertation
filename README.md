@@ -8,6 +8,6 @@ Data-driven signal and data modeling has received much attention recently, for i
 
 ### References:
 <ol>
-<li>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, ''*You Only Look Once: Unified, Real-Time Object Detection*''.</li>
+<li>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, '' _You Only Look Once: Unified, Real-Time Object Detection_ ''.</li>
 <li>Joseph Redmon, Ali Farhadi, ''YOLOv3: An Incremental Improvement''.</li>
 </ol>
