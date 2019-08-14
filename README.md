@@ -39,5 +39,6 @@ Progress
 > |---|---|---|
 
 > Important codes:
-> ``` ./darknet detect cfg/yolov3.cfg yolov3.weights
+> ```python 
+> ./darknet detect cfg/yolov3.cfg yolov3.weights
 > ```
