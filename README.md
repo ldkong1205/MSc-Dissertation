@@ -32,9 +32,8 @@ Progress
 > The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. 
 
 > Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
-
-> 
-  |Author|果冻虾仁|
+ 
+> |Author|果冻虾仁|
   |---|---
   |E-mail|Jelly.K.Wang@qq.com
 
