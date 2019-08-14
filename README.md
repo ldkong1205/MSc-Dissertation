@@ -29,6 +29,6 @@ References:
 <br>
 <br>
 
-Process:
+Progress:
 -----
-
+<li>YOLO configuration and installation have been completed and preliminary test has been carried out.
