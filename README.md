@@ -39,7 +39,8 @@ Progress
 > |---|---|---|
 
 > Important codes:
->> Activate detection for multiple images: (use Ctrl-C to exit)
+>> Activating the detection for multiple images (use Ctrl-C to exit):
 >> ```python
 >> ./darknet detect cfg/yolov3.cfg yolov3.weights
 >> ```
+>> Changing the detection threshold:
