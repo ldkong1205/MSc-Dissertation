@@ -1,6 +1,7 @@
 # 🎓 MSc Dissertation
 
-Start from `13-Aug-2019`. Last update at `14-Aug-2019`.
+Start from `13-Aug-2019` 
+Last update at `14-Aug-2019`.
   
 Project Title: 
 -----
@@ -15,7 +16,7 @@ Keywords: `Deep learning`  `Object detection`  `X-ray image`
 References:
 -----
 <ol>
-<li>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, ''You Only Look Once: Unified, Real-Time Object Detection''. `[PDF]` `[Code]` </li>
+<li>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, ''You Only Look Once: Unified, Real-Time Object Detection''.</li>
   
 <li>Joseph Redmon, Ali Farhadi, ''YOLOv3: An Incremental Improvement''.</li>
 
