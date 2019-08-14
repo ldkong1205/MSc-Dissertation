@@ -44,3 +44,6 @@ Progress
 >> ./darknet detect cfg/yolov3.cfg yolov3.weights
 >> ```
 >> Changing the detection threshold:
+>> ```python
+>> ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg -thresh 0
+>> ```
