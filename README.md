@@ -39,6 +39,5 @@ Progress
 > |---|---|---|
 
 > Important codes:
-> ```Java
-> public static void main(String[]args){} //Java
+> ```./darknet detect cfg/yolov3.cfg yolov3.weights
 > ```
