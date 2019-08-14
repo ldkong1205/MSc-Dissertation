@@ -1,11 +1,11 @@
 # 🎓 MSc Dissertation
 
-Start from `🕒13-Aug-2019`;     Last update at `🕤14-Aug-2019` <br>
+Start from `🕒13-Aug-2019`;     Last update at `🕤14-Aug-2019`. <br>
 <br>
   
 Project Title
 -----
-Computational Imaging and Detection via Deep Learning
+##### Computational Imaging and Detection via Deep Learning
 <br>
 <br>
 
