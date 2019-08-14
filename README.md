@@ -39,7 +39,7 @@ Progress
 > |---|---|---|
 
 > Important codes:
-> activate detection:
-> ```python
-> ./darknet detect cfg/yolov3.cfg yolov3.weights
-> ```
+>> activate detection:
+>> ```python
+>> ./darknet detect cfg/yolov3.cfg yolov3.weights
+>> ```
