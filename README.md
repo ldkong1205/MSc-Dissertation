@@ -1,6 +1,6 @@
 # 🎓 MSc Dissertation
 
-`⭐️Start from 13-August-2019` 
+`🕒Start from 13-August-2019` 
   
 Project Title: 
 -----
