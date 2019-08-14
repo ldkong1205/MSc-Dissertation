@@ -19,8 +19,6 @@ References:
   
 <li>Joseph Redmon, Ali Farhadi, ''YOLOv3: An Incremental Improvement''.</li>
 
-<li> Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks''. 
+<li>Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". 
 </ol>
-[PDF](https://arxiv.org/abs/1506.01497)
-[emoji](./emoji.md)
-[emoji](./emoji.md)
+
