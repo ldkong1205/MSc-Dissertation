@@ -16,5 +16,10 @@ References:
 -----
 <ol>
 <li>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, ''You Only Look Once: Unified, Real-Time Object Detection''. `[PDF]` `[Code]` </li>
+  
 <li>Joseph Redmon, Ali Farhadi, ''YOLOv3: An Incremental Improvement''.</li>
+
+<li> Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks''. `[PDF] https://arxiv.org/abs/1506.01497`
 </ol>
+
+
