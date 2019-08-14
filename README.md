@@ -33,8 +33,7 @@ Progress
 
 > Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
 
-> |#|语法|效果|
-  |---|---|----
+> |---|---|----
   |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
   |2|`![][code-past]`|![][code-past]
 
