@@ -1,16 +1,15 @@
 # 🎓 MSc Dissertation
 
-Start from `🕒13-Aug-2019` <br>
-Last update at `🕤14-Aug-2019` <br>
+Start from `🕒13-Aug-2019` <br> Last update at `🕤14-Aug-2019` <br>
 <br>
   
-Project Title: 
+Project Title
 -----
 Computational Imaging and Detection via Deep Learning
 <br>
 <br>
 
-Project Summary:
+Project Summary
 -----
 Data-driven signal and data modeling has received much attention recently, for its promising performance in image processing, computer vision, imaging, etc. Among many machine learning techniques, the popular deep learning has demonstrated promising performance in image-related applications. However, it is still unclear whether it can be applied to benefit various computational imaging and vision applicartions, ranging from image restoration to analysis. This project aims to develop efficient and effective deep learning algorithms for computational imaging and detection applications.
 
@@ -18,7 +17,7 @@ Keywords: `Deep learning`  `Object detection`  `X-Ray image`
 <br>
 <br>
 
-References:
+References
 -----
 <li>Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye, "SIXray:A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images".
 <li>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, "You Only Look Once: Unified, Real-Time Object Detection".</li>
@@ -29,7 +28,7 @@ References:
 <br>
 <br>
 
-Progress:
+Progress
 -----
 #### YOLOv3:
 
