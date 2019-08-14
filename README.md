@@ -33,9 +33,9 @@ Progress
 
 > Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
 
-> |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
-  |---|---|----
-  |2|`![][code-past]`|![][code-past]
+> |Author|果冻虾仁|
+  |---|---
+  |E-mail|Jelly.K.Wang@qq.com
 
   |---|---
   |![](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions%201.jpg) |![](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions.jpg)
