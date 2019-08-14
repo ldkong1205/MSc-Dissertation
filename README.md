@@ -20,14 +20,12 @@ Keywords: `Deep learning`  `Object detection`  `X-Ray image`
 
 References:
 -----
-<ol>
 <li>Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye, "SIXray:A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images".
 <li>Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, "You Only Look Once: Unified, Real-Time Object Detection".</li>
   
 <li>Joseph Redmon, Ali Farhadi, "YOLOv3: An Incremental Improvement".</li>
 
 <li>Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". 
-</ol>
 
 Process:
 -----
