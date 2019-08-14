@@ -32,4 +32,5 @@ References:
 Progress:
 -----
 <li>YOLOv3:</li>
+
 > The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/.
