@@ -35,8 +35,3 @@ Progress
  
 > |![](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions%201.jpg)|![](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions.jpg)|
 > |---|---
-> |E-mail|Jelly.K.Wang@qq.com
-
-
-  |---|---
-  |![](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions%201.jpg) |![](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions.jpg)
