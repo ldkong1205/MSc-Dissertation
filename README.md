@@ -34,8 +34,8 @@ Progress
 > Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
  
 > |Author|果冻虾仁|
-  |---|---
-  |E-mail|Jelly.K.Wang@qq.com
+> |---|---
+> |E-mail|Jelly.K.Wang@qq.com
 
 
   |---|---
