@@ -39,6 +39,7 @@ Progress
 > |---|---|---|
 
 > Important codes:
-> ```git 
+> activate detection:
+> ```python
 > ./darknet detect cfg/yolov3.cfg yolov3.weights
 > ```
