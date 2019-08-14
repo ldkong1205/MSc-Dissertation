@@ -25,11 +25,11 @@ References:
   
 <li>Joseph Redmon, Ali Farhadi, "YOLOv3: An Incremental Improvement".</li>
 
-<li>Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". 
+<li>Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks".</li>
 <br>
 <br>
 
 Progress:
 -----
-YOLOv3:
+<li>YOLOv3:</li>
 > The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/.
