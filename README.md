@@ -1,6 +1,6 @@
-# MSc Dissertation
+# 🎓MSc Dissertation
 
-### Project Title: 
+### 🧸Project Title: 
 Computational Imaging and Detection via Deep Learning
 
 ### Project Summary:
