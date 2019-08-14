@@ -28,7 +28,6 @@ References:
 
 <li>Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". 
 </ol>
-<br>
 
 Process:
 -----
