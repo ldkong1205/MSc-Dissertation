@@ -30,5 +30,5 @@ Progress
 -----
 #### YOLOv3:
 
-> The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. <br> 
+> The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. <br><br> 
 Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
