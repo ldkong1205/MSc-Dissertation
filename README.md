@@ -23,5 +23,5 @@ References:
   [PDF](./https://arxiv.org/abs/1506.01497)
 </ol>
 
-[emoji](./emoji.md)
+[PDF](https://arxiv.org/abs/1506.01497)
 
