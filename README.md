@@ -21,6 +21,8 @@ References
 
 - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, "You Only Look Once: Unified, Real-Time Object Detection".
 
+- Joseph Redmon, Ali Farhadi, "YOLO9000: Better, Faster, Stronger".
+
 - Joseph Redmon, Ali Farhadi, "YOLOv3: An Incremental Improvement".
 
 - Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks".
