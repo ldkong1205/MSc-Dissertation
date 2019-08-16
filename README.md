@@ -76,6 +76,8 @@ Progress
 
 - **Max Pooling**
 
+> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/pooling.png)|
+> |---|
 
 
 #### c. The structure of YOLO
