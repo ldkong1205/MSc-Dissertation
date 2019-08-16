@@ -51,13 +51,13 @@ Progress
 
 ### Some Notes about YOLO, YOLOv2, and YOLOv3:
 
-#### - Aim:
-> objective detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
+#### a.Aim:
+- objective detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
 
-####- Fundamental of CNN:
-> Why CNN for image?
+#### b.Fundamental of CNN:
+- Why CNN for image? (3 reasons)
+> The same patterns appear in different regions.
+>
 
-
-
-- **The structure of YOLO:** 
+#### c.The structure of YOLO: 
 
