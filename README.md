@@ -17,7 +17,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 References
 -----
-- Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye, "SIXray:A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images".
+- Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye, "SIXray:A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images". [[arXiv](https://arxiv.org/abs/1901.00303v1)]
 
 - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, "You Only Look Once: Unified, Real-Time Object Detection".
 
