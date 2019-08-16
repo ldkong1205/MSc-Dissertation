@@ -60,7 +60,7 @@ Progress
 
 > The same patterns appear in different regions.
 
-> Subsampling the pixels will not change the objects.
+> Subsampling the pixels will not change the objects (patterns).
 
 #### c. The structure of YOLO: 
 
