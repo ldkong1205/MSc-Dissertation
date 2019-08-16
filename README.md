@@ -49,3 +49,5 @@ Progress
 >> ```python
 >> ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg -thresh 0.25
 >> ```
+
+#### Some Notes about YOLO, YOLOv2, and YOLOv3:
