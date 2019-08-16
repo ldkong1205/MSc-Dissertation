@@ -51,3 +51,5 @@ Progress
 >> ```
 
 #### Some Notes about YOLO, YOLOv2, and YOLOv3:
+
+> The structure of YOLO
