@@ -36,7 +36,7 @@ Progress
 
 - The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. 
 
-- Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
+- Details of the installation and configuration can be found at [YOLOv3](https://pjreddie.com/darknet/yolo/) and [YOLOv3 for Mac](https://bbs.csdn.net/topics/392556090?list=lz).
  
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions2.jpg)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions%201.jpg)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions.jpg)|
 > |---|---|---|
