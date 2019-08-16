@@ -31,6 +31,8 @@ Progress
 -----
 ### YOLOv3
 
+- Some tutorials about YOLOv3 can be found at https://medium.com/@viirya/yolo-a-very-simple-tutorial-8d573a303480, https://blog.csdn.net/guleileo/article/details/80581858, and https://blog.csdn.net/m0_37192554/article/details/81092514.
+
 - The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. 
 
 - Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
