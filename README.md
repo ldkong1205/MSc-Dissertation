@@ -81,7 +81,7 @@ Progress
 <br>
 
 #### c. The Concept of YOLO
-The YOLO detection system (3 steps):
+The YOLO's detection system (3 steps):
 
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/YOLO-detection-system.png)|
 > |---|
@@ -91,3 +91,7 @@ The YOLO detection system (3 steps):
 > Step 2: Run a single CNN on the image.
 
 > Step 3: Threshold the resulting detections by the model's confidence.
+
+The grid division:
+
+> |![image](
