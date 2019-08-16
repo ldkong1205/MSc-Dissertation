@@ -68,7 +68,8 @@ Progress
 > |---|
 
 - Convolution
-> 
+> Convolution v.s. Fully-Connected Network
+>
 
 
 
