@@ -93,8 +93,9 @@ The YOLO's detection system (3 steps):
 > Step 3: Threshold the resulting detections by the model's confidence.
 
 The grid division:
+> The system divides the image into an SxS grid and for each grid cell predicts B bounding boxes, confidence for those boxes, and C class probabilities. These predictions are encoded as an SxSx(Bx5+C) tensor.
 
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/YOLO-model.png)|
 > |---|
 
-> The system divides the image into an $SxS$ grid and for each grid cell predicts B bounding boxes, confidence for those boxes, and C class probabilities. These predictions are encoded as an S  S  (B  5 + C) tensor.
+
