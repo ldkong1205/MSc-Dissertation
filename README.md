@@ -12,7 +12,7 @@ Project Summary
 -----
 Data-driven signal and data modeling has received much attention recently, for its promising performance in image processing, computer vision, imaging, etc. Among many machine learning techniques, the popular deep learning has demonstrated promising performance in image-related applications. However, it is still unclear whether it can be applied to benefit various computational imaging and vision applicartions, ranging from image restoration to analysis. This project aims to develop efficient and effective deep learning algorithms for computational imaging and detection applications.
 
-Keywords: `Deep learning`;  `Object detection`;  `X-Ray image`.
+Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 <br>
 
 References
@@ -51,6 +51,8 @@ Progress
 ```
 
 #### Some Notes about YOLO, YOLOv2, and YOLOv3:
+
+- Aim: objective detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search).
 
 - The structure of YOLO:
 
