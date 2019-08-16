@@ -42,13 +42,13 @@ Details of the installation and configuration can be found at https://pjreddie.c
 
 Important codes:
 > Activating the detection for multiple images (use Ctrl-C to exit):
-> ```python
-> ./darknet detect cfg/yolov3.cfg yolov3.weights
-> ```
+```python
+./darknet detect cfg/yolov3.cfg yolov3.weights
+```
 > Changing the detection threshold:
-> ```python
-> ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg -thresh 0.25
-> ```
+```python
+./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg -thresh 0.25
+```
 
 #### Some Notes about YOLO, YOLOv2, and YOLOv3:
 
