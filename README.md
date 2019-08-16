@@ -29,7 +29,7 @@ References
 
 Progress
 -----
-### YOLOv3:
+### YOLOv3
 
 - The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. 
 
@@ -49,12 +49,12 @@ Progress
 ```
 <br>
 
-### Some Notes about YOLO, YOLOv2, and YOLOv3:
+### Some Notes about YOLO, YOLOv2, and YOLOv3
 
-#### a. Aim:
+#### a. Aim
 - object detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
 
-#### b. Fundamental of CNN:
+#### b. Fundamental of CNN
 - Why CNN for image? (3 reasons)
 > Some patterns are much smaller than the whole image. The neuron doesn't have to see the whole image to discover the pattern. Also, connecting to small region requires less parameters.
 
@@ -65,5 +65,7 @@ Progress
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn.png)|
 > |---|
 
-#### c. The structure of YOLO: 
+- Convolution
+
+#### c. The structure of YOLO
 
