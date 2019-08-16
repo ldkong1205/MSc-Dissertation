@@ -62,7 +62,7 @@ Progress
 
 > Subsampling the pixels will not change the objects (patterns).
 
-> ![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn.png)
+> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn.png)|
 
 #### c. The structure of YOLO: 
 
