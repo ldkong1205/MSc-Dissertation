@@ -75,8 +75,8 @@ Progress
 
 - **Max Pooling**
 
-> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/pooling.png)|
-> |---|
+> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/pooling.png)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/maxpooling.png)|
+> |---|---|
 
 <br>
 
