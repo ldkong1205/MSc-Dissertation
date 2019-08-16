@@ -57,7 +57,7 @@ Progress
 - object detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
 
 #### b. Fundamental of CNN
-- **Why CNN for image? (3 reasons)
+- **Why CNN for image? (3 reasons)**
 > Property 1: Some patterns are much smaller than the whole image. The neuron doesn't have to see the whole image to discover the pattern. Also, connecting to small region requires less parameters.
 
 > Property 2: The same patterns appear in different regions.
@@ -67,13 +67,13 @@ Progress
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn.png)|
 > |---|
 
-- **Convolution
+- **Convolution**
 > Convolution v.s. Fully-Connected Network:
 
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn-v.s.-fullyconnected.png)|
 > |---|
 
-- **Max Pooling
+- **Max Pooling**
 
 
 
