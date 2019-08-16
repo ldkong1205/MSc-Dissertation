@@ -94,4 +94,5 @@ The YOLO's detection system (3 steps):
 
 The grid division:
 
-> |![image](
+> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/YOLO-model.png)|
+> |---|
