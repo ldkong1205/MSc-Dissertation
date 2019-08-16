@@ -83,5 +83,8 @@ Progress
 
 <br>
 
-#### c. The structure of YOLO
+#### c. The Concept of YOLO
+The YOLO detection system:
 
+> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/YOLO-detection-system.png)|
+> |---|
