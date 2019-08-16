@@ -67,14 +67,11 @@ Progress
 
 > Property 3: Subsampling the pixels will not change the objects (patterns).
 
-> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn.png)|
-> |---|
-
 - **Convolution**
 > Convolution v.s. Fully-Connected Network:
 
-> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn-v.s.-fullyconnected.png)|
-> |---|
+> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn.png)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn-v.s.-fullyconnected.png)|
+> |---|---|
 
 - **Max Pooling**
 
