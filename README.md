@@ -57,6 +57,7 @@ Progress
 #### a. Aim
 - object detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
 
+<br>
 #### b. Fundamental of CNN
 - **Why CNN for image? (3 reasons)**
 > Property 1: Some patterns are much smaller than the whole image. The neuron doesn't have to see the whole image to discover the pattern. Also, connecting to small region requires less parameters.
@@ -79,6 +80,6 @@ Progress
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/pooling.png)|
 > |---|
 
-
+<br>
 #### c. The structure of YOLO
 
