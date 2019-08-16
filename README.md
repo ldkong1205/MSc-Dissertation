@@ -81,7 +81,11 @@ Progress
 <br>
 
 #### c. The Concept of YOLO
-The YOLO detection system:
+The YOLO detection system (3 steps):
 
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/YOLO-detection-system.png)|
 > |---|
+
+> Step 1: Resize the image to 448x448.
+> Step 2: Run a single CNN on the image.
+> Step 3: Threshold the resulting detections by the model's confidence.
