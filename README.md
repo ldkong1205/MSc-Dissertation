@@ -58,16 +58,18 @@ Progress
 
 #### b. Fundamental of CNN
 - Why CNN for image? (3 reasons)
-> Some patterns are much smaller than the whole image. The neuron doesn't have to see the whole image to discover the pattern. Also, connecting to small region requires less parameters.
+> Property 1: Some patterns are much smaller than the whole image. The neuron doesn't have to see the whole image to discover the pattern. Also, connecting to small region requires less parameters.
 
-> The same patterns appear in different regions.
+> Property 2: The same patterns appear in different regions.
 
-> Subsampling the pixels will not change the objects (patterns).
+> Property 3: Subsampling the pixels will not change the objects (patterns).
 
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn.png)|
 > |---|
 
 - Convolution
+
+
 
 #### c. The structure of YOLO
 
