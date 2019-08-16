@@ -32,7 +32,7 @@ Progress
 
 ### I. YOLOv3
 
-- Some tutorials about YOLOv3 can be found at [Tutorial 1](https://medium.com/@viirya/yolo-a-very-simple-tutorial-8d573a303480), https://blog.csdn.net/guleileo/article/details/80581858, and https://blog.csdn.net/m0_37192554/article/details/81092514.
+- Some tutorials about YOLOv3 can be found at [Tutorial 1](https://medium.com/@viirya/yolo-a-very-simple-tutorial-8d573a303480), [Tutorial 2](https://blog.csdn.net/guleileo/article/details/80581858), and [Tutorial 3](https://blog.csdn.net/m0_37192554/article/details/81092514).
 
 - The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. 
 
