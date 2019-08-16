@@ -91,7 +91,16 @@ The YOLO's detection system (3 steps):
 > **Step 3:** Threshold the resulting detections by the model's confidence.
 
 The grid division:
-> The system divides the image into an S x S grid and for each grid cell predicts B bounding boxes, confidence for those boxes, and C class probabilities. These predictions are encoded as an S x S x (B x 5 + C) tensor.
+> The system divides the image into an S x S grid. If the center of an object falls into a grid cell, that grid cell
+is responsible for detecting that object.
+
+> Each grid cell predicts B bounding boxes and confidence scores for those boxes. These confidence scores reflect how confident the model is that the box contains an object and also how accurate it thinks the box is that it predicts.
+
+> Otherwise we want the confidence score to equal the intersection over union (IOU) between the predicted box and the ground truth.
+
+> Each bounding box consists of 5 predictions: x, y, w, h, and confidence. The (x, y) coordinates represent the center of the box relative to the bounds of the grid cell. The width and height are predicted relative to the whole image. Finally the confidence prediction represents the IOU between the predicted box and any ground truth box.
+
+> Each grid cell also predicts C conditional class probabilities, Pr(Class_i|Object). These probabilities are conditioned on the grid cell containing an object.
 
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/YOLO-model.png)|
 > |---|
