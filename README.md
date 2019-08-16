@@ -96,3 +96,5 @@ The grid division:
 
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/YOLO-model.png)|
 > |---|
+
+> The system divides the image into an $SxS$ grid and for each grid cell predicts B bounding boxes, confidence for those boxes, and C class probabilities. These predictions are encoded as an S  S  (B  5 + C) tensor.
