@@ -57,7 +57,6 @@ Progress
 #### a. Aim
 - Object detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
 
-<br>
 
 #### b. Fundamental of CNN
 - **Why CNN for image? (3 reasons)**
@@ -78,7 +77,6 @@ Progress
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/pooling.png)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/maxpooling.png)|
 > |---|---|
 
-<br>
 
 #### c. The Concept of YOLO
 The YOLO's detection system (3 steps):
