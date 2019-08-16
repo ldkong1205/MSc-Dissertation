@@ -29,7 +29,8 @@ References
 
 Progress
 -----
-### YOLOv3
+
+### I. YOLOv3
 
 - Some tutorials about YOLOv3 can be found at https://medium.com/@viirya/yolo-a-very-simple-tutorial-8d573a303480, https://blog.csdn.net/guleileo/article/details/80581858, and https://blog.csdn.net/m0_37192554/article/details/81092514.
 
@@ -51,7 +52,7 @@ Progress
 ```
 <br>
 
-### Some Notes about YOLO, YOLOv2, and YOLOv3
+### II. Some Notes about YOLO, YOLOv2, and YOLOv3
 
 #### a. Aim
 - object detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
