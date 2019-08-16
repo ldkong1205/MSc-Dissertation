@@ -29,7 +29,7 @@ References
 
 Progress
 -----
-#### YOLOv3:
+### YOLOv3:
 
 - The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. 
 
@@ -49,13 +49,13 @@ Progress
 ```
 <br>
 
-#### Some Notes about YOLO, YOLOv2, and YOLOv3:
+### Some Notes about YOLO, YOLOv2, and YOLOv3:
 
 - **Aim:** 
 > objective detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
 
 - **Fundamental of CNN:**
-
+> Why CNN for image?
 
 
 - **The structure of YOLO:** 
