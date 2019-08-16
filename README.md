@@ -52,7 +52,9 @@ Progress
 
 #### Some Notes about YOLO, YOLOv2, and YOLOv3:
 
-- Aim: objective detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search).
+- **Aim:** objective detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
 
-- The structure of YOLO:
+- 
+
+- **The structure of YOLO:** 
 
