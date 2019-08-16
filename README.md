@@ -69,6 +69,9 @@ Progress
 
 - Convolution
 > Convolution v.s. Fully-Connected Network
+
+> Property 1:
+
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/cnn-v.s.-fullyconnected.png)|
 > |---|
 
