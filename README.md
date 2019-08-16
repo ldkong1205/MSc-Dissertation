@@ -31,26 +31,26 @@ Progress
 -----
 #### YOLOv3:
 
-> The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. 
+The installation and configuration of YOLOv3 have been completed and preliminary test has been carried out. 
 
-> Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
+Details of the installation and configuration can be found at https://pjreddie.com/darknet/yolo/ and https://bbs.csdn.net/topics/392556090?list=lz.
 
 
  
 > |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions2.jpg)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions%201.jpg)|![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/predictions.jpg)|
 > |---|---|---|
 
-> Important codes:
->> Activating the detection for multiple images (use Ctrl-C to exit):
->> ```python
->> ./darknet detect cfg/yolov3.cfg yolov3.weights
->> ```
->> Changing the detection threshold:
->> ```python
->> ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg -thresh 0.25
->> ```
+Important codes:
+> Activating the detection for multiple images (use Ctrl-C to exit):
+> ```python
+> ./darknet detect cfg/yolov3.cfg yolov3.weights
+> ```
+> Changing the detection threshold:
+> ```python
+> ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg -thresh 0.25
+> ```
 
 #### Some Notes about YOLO, YOLOv2, and YOLOv3:
 
-> The structure of YOLO:
+The structure of YOLO:
 
