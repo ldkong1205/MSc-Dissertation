@@ -54,7 +54,7 @@ Progress
 
 ### II. Some Notes about YOLO, YOLOv2, and YOLOv3
 
-#### a. Aim
+#### a. Objective
 - Object detection and confidence evaluation with one stage (different from region proposal-based two-stage approaches which require selective search and regression).
 
 
