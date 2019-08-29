@@ -1,6 +1,6 @@
 # 🎓 MSc Dissertation
 
-Start from `🕒13-Aug-2019`;     Last update at `🕤16-Aug-2019`. 
+Start from `🕒13-Aug-2019`;     Last update at `🕤29-Aug-2019`. 
 <br>
   
 Project Title
