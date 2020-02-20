@@ -1,6 +1,6 @@
 # 🎓 MSc Dissertation
 
-Start from `🕒13-Aug-2019`;     Last update at `🕤29-Aug-2019`. 
+Start from `🕒13-Aug-2019`;     Last update at `🕤20-Feb-2020`. 
 <br>
   
 Project Title
@@ -124,3 +124,10 @@ is responsible for detecting that object.
 # Appendices
 
 ## A.  Implementations of Logistic Regression
+### A.1  Packages
+In order to implement the logistic regression using Python 3, the following packages are needed:
+•	numpy: is the fundamental package for scientific computing with Python.
+•	h5py: is a common package to interact with a dataset stored on an H5 file.
+•	matplotlib: is a famous library to plot graphs in Python.
+•	PIL and scipy: are used to test the models with images.
+
