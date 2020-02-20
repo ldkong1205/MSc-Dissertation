@@ -108,13 +108,19 @@ is responsible for detecting that object.
 
 
 # Chapter 1  Introduction
------
 
+## 1.1  Background
+.
 
-# Chapter 2  Fundamentals of Deep Learni
------
+## 1.2  Motivation
+.
+
+# Chapter 2  Fundamentals of Deep Learning
+
+## 2.1  Logistic Regression
+.
 
 
 # Appendices
------
-## A.	Implementations of Logistic Regression
+
+## A.  Implementations of Logistic Regression
