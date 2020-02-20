@@ -131,6 +131,8 @@ In order to implement the logistic regression using Python 3, the following pack
 + matplotlib: is a famous library to plot graphs in Python.
 + PIL and scipy: are used to test the models with images.
 
+
+
     import numpy as np
     import matplotlib.pyplot as plt
     import h5py
@@ -139,6 +141,7 @@ In order to implement the logistic regression using Python 3, the following pack
     from scipy import ndimage
     from lr_utils import load_dataset
     %matplotlib inline
+
 
 
 ### A.2 	Overview of the Problem Set
