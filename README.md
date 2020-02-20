@@ -131,6 +131,7 @@ In order to implement the logistic regression using Python 3, the following pack
 + matplotlib: is a famous library to plot graphs in Python.
 + PIL and scipy: are used to test the models with images.
 
+
     import numpy as np
     import matplotlib.pyplot as plt
     import h5py
@@ -140,6 +141,7 @@ In order to implement the logistic regression using Python 3, the following pack
     from lr_utils import load_dataset
     
     %matplotlib inline
+
 
 
 ### A.2 	Overview of the Problem Set
@@ -190,7 +192,7 @@ z^((i))=w^T x^((i))+b
 y ̂^((i))=σ(z^((i) ) )=sigmoid(z^((i)))
 L(y ̂^((i) ),y^((i) ) )=-y^((i) )  log⁡(y ̂^((i) ) )-(1-y^((i) ))log⁡(1-y ̂^((i) ))
 The cost is then computed by summing over all the training examples:
-J=1/m ∑_(i=1)^m▒L(y ̂^((i) ),y^((i) ) ) 
+J=1/m ∑_(i=1)^mL(y ̂^((i) ),y^((i) ) ) 
 
 
 
