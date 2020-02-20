@@ -142,19 +142,19 @@ Our goal is to build an image-recognition algorithm using logistic regression th
 
 First, load the dataset by the following code:
 
->` train_set_x_orig, train_set_y, test_set_x_orig, test_set_y, classes = load_dataset()`
+  train_set_x_orig, train_set_y, test_set_x_orig, test_set_y, classes = load_dataset()`
 
 Here we use added “_orig” at the end of the image datasets because we are going to preprocess them. Each line of our train_set_x_orig and test_set_x_orig is an array representing an image. We can visualize the 200th example by the following code:
 
-index = 200
-plt.imshow(train_set_x_orig[index])
-print("y = " + str(train_set_y[:, index]) + ", it's a '" + 
-           classes[np.squeeze(train_set_y[:,index])].decode("utf-8")
-           + "' picture.")
+  index = 200
+  plt.imshow(train_set_x_orig[index])
+  print("y = " + str(train_set_y[:, index]) + ", it's a '" + classes[np.squeeze(train_set_y[:,index])].decode("utf-8") + "' picture.")
+  
 The following code is used to extract the size of the images inputted:
-m_train = train_set_x_orig.shape[0]
-m_test = test_set_x_orig.shape[0]
-num_px = train_set_x_orig.shape[1]
+
+  m_train = train_set_x_orig.shape[0]
+  m_test = test_set_x_orig.shape[0]
+  num_px = train_set_x_orig.shape[1]
 
 Through the outputs we known that the dataset contains 209 training examples, 50 test examples, and each input image is of the size 64×64×3.
 
