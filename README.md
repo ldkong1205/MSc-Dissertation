@@ -126,8 +126,23 @@ is responsible for detecting that object.
 ## A.  Implementations of Logistic Regression
 ### A.1  Packages
 In order to implement the logistic regression using Python 3, the following packages are needed:
+
 •	numpy: is the fundamental package for scientific computing with Python.
+
 •	h5py: is a common package to interact with a dataset stored on an H5 file.
+
 •	matplotlib: is a famous library to plot graphs in Python.
+
 •	PIL and scipy: are used to test the models with images.
+
+### A.2 	Overview of the Problem Set
+
+Our example dataset containing:
+
+•	A training set of m_train images labeled as cat (y=1) or non-cat (y=0).
+
+•	A test set of m_test images labeled as cat (y=1) or non-cat (y=0).
+
+•	Each image is of shape (num_px, num_px, 3), where 3 is for the three channels (RGB). Thus, each image is square (height = num_px) and (width = num_px).
+
 
