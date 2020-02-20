@@ -107,14 +107,14 @@ is responsible for detecting that object.
 
 
 
-Chapter 1  Introduction
+# Chapter 1  Introduction
 -----
 
 
-Chapter 2  Fundamentals of Deep Learni
+# Chapter 2  Fundamentals of Deep Learni
 -----
 
 
-Appendices
+# Appendices
 -----
-# A.	Implementations of Logistic Regression
+## A.	Implementations of Logistic Regression
