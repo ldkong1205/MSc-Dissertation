@@ -1,4 +1,4 @@
-# <center>🎓 MSc Dissertation</center>
+# 🎓 MSc Dissertation
 
 Start from `🕒13-Aug-2019`;     Last update at `🕤24-Feb-2020`. 
 <br>
@@ -106,14 +106,6 @@ is responsible for detecting that object.
 > |---|
 
 
-
-# Chapter 1  Introduction
-
-### 1.1  Background
-.
-
-### 1.2  Motivation
-.
 
 # Chapter 2  Deep Learning
 
