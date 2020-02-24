@@ -1,5 +1,5 @@
 |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/ntu_logo.png)|
-|---|
+
 # <center> 🎓 MSc Dissertation </center>
 
 Start from `🕒13-Aug-2019`     Last update at `🕤24-Feb-2020`
@@ -72,5 +72,6 @@ C. Building a Deep Neural Network: Step by Step
 
 
 
+# Acknowledgements
 
 
