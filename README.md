@@ -74,4 +74,4 @@ C. Building a Deep Neural Network: Step by Step
 
 # Acknowledgements
 
-I would like to thank my advisor Prof. WEN BIHAN for suporting me through this project.
+I would like to thank my advisor Prof. WEN BIHAN for supporting me through this project.
