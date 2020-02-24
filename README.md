@@ -24,10 +24,11 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 # Table of Contents
 
 ### Chapter 1 Introduction
+1.1 Background
 
 ### Chapter 2 Deep Learning
 
-
+### Chapter 3 Object Detection
 
 
 
