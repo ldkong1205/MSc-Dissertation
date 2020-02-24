@@ -2,7 +2,10 @@
 
 Start from `🕒13-Aug-2019`;     Last update at `🕤24-Feb-2020`. 
 <br>
-  
+
+> |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/Dissertation.png)|
+> |---|
+
 Project Title
 -----
 Computational Imaging and Detection via Deep Learning
