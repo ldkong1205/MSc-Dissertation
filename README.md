@@ -19,7 +19,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 # Table of Contents
 
-### Chapter 1 Introduction
+### Chapter 1 - Introduction
 
 1.1 Background
 
@@ -29,7 +29,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 1.4 Major Contribution of Dissertation
 
-### Chapter 2 Deep Learning
+### Chapter 2 - Deep Learning
 2.1 Overview
 
 2.2 Logistic Regression
@@ -40,15 +40,15 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 2.5 Optimization
 
-### Chapter 3 Object Detection
+### Chapter 3 - Object Detection
 
 3.1 Overview
 
-### Chapter 4 X-Ray Images
+### Chapter 4 - X-Ray Images
 
 4.1 Overview
 
-### Chapter 5 Experiments
+### Chapter 5 - Experiments
 
 5.1 Overview
 
@@ -56,7 +56,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 5.3 Object Detection by Fast R-CNN
 
-### Chapter 6 Conclusion and Future Work
+### Chapter 6 - Conclusion and Future Work
 
 6.1 Conclusion
 
