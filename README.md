@@ -2,14 +2,12 @@
 |---|
 # <center> 🎓 MSc Dissertation </center>
 
-Start from `🕒13-Aug-2019`;     Last update at `🕤24-Feb-2020`. 
-<br>
-
+Start from `🕒13-Aug-2019`     Last update at `🕤24-Feb-2020`
 
 
 # Title
 ### Computational Imaging and Detection via Deep Learning
-<br>
+
 
 # Abstract
 
@@ -23,15 +21,41 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 # Table of Contents
 
 ### Chapter 1 Introduction
+
 1.1 Background
+
 1.2 Motivation
+
 1.3 Objective and Specification
+
 1.4 Major Contribution of Dissertation
+
 ### Chapter 2 Deep Learning
 2.1 Overview
+
 2.2 Logistic Regression
+
 2.3 Activation Functions
+
+2.4 Gradient Descent for Neural Networks
+
+2.5 Optimization
+
 ### Chapter 3 Object Detection
+
+### Chapter 4 X-Ray Images
+
+### Chapter 5 Experiments
+
+### Chapter 6 Conclusions and Future Work
+
+### Appendices
+
+A. Image Recognition using Logistic Regression
+
+B. Planar Data Classification with a Hidden Layer
+
+C. Building a Deep Neural Network: Step by Step
 
 
 
