@@ -29,7 +29,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 1.4 Major Contribution of Dissertation
 
-### [Chapter 2 - Deep Learning](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter 2 - Deep Learning.md)
+### Chapter 2 - Deep Learning
 2.1 Overview
 
 2.2 Logistic Regression
