@@ -1,4 +1,4 @@
-# Chapter 2  Deep Learning
+# Chapter 2 Deep Learning
 
 ### 2.1  Overview
 .
