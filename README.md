@@ -109,21 +109,32 @@ is responsible for detecting that object.
 
 # Chapter 1  Introduction
 
-## 1.1  Background
+### 1.1  Background
 .
 
-## 1.2  Motivation
+### 1.2  Motivation
 .
 
-# Chapter 2  Fundamentals of Deep Learning
+# Chapter 2  Deep Learning
 
-## 2.1  Logistic Regression
+### 2.1  Overview
 .
+
+### 2.2  Logistic Regression
+.
+
+### 2.3  Activation Functions
+The performance of a deep learning model can be very different due to the utilization of different activation functions. In this section, we will discussion some commonly used activations functions and their derivatives.
+
+### 2.3.1 Sigmoid Activation Function
+From the previous discussion of the logistic regression, we know that for a binary classification problem, the sigmoid activation function is the first choice.
+g(z)=1/(1+e^(-z) )
+
 
 
 # Appendices
 
-## A.  Implementations of Logistic Regression
+### A.  Implementations of Logistic Regression
 ### A.1  Packages
 In order to implement the logistic regression using Python 3, the following packages are needed:
 + `numpy`: is the fundamental package for scientific computing with Python.
