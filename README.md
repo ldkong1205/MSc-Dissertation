@@ -42,11 +42,25 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 ### Chapter 3 Object Detection
 
+3.1 Overview
+
 ### Chapter 4 X-Ray Images
+
+4.1 Overview
 
 ### Chapter 5 Experiments
 
-### Chapter 6 Conclusions and Future Work
+5.1 Overview
+
+5.2 Object Detection by YOLOv3
+
+5.3 Object Detection by Fast R-CNN
+
+### Chapter 6 Conclusion and Future Work
+
+6.1 Conclusion
+
+6.2 Future Work
 
 ### Appendices
 
