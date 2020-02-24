@@ -2,7 +2,7 @@
 |---|
 # <center> 🎓 MSc Dissertation </center>
 
-Start from `🕒13-Aug-2019`     Last update at `🕤24-Feb-2020`
+Last updated: `🕤24-Feb-2020`
 
 
 # Title
