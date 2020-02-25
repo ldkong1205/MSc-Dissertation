@@ -95,3 +95,10 @@ Image Detection Deep Neural Networks - Benchmarking:
 |Faster R-CNN|[[Keras](https://github.com/you359/Keras-FasterRCNN)] [[TensorFlow](https://github.com/endernewton/tf-faster-rcnn)] [[PyTorch](https://github.com/jwyang/faster-rcnn.pytorch)] [[Paper](https://arxiv.org/pdf/1506.01497.pdf)] [[Tutorial](https://medium.com/@smallfishbigsea/faster-r-cnn-explained-864d4fb7e3f8)]|
 |SSD      |[[Keras](https://github.com/kuhung/SSD_keras)] [[TensorFlow](https://github.com/balancap/SSD-Tensorflow)] [[PyTorch](https://github.com/amdegroot/ssd.pytorch)]  [[Paper](https://arxiv.org/pdf/1512.02325.pdf)] [[Tutorial](https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad)]|
 |RFBNet      |[Keras] [TensorFlow] [[PyTorch](https://github.com/ruinmessi/RFBNet)]  [[Paper](https://arxiv.org/pdf/1711.07767.pdf)] [[Tutorial](https://blog.csdn.net/u014380165/article/details/81556769)]|
+
+Some skills and knowledge which are useful for deep learning research:
+
+|Name|Content|Link|Offered By|
+|:---:|:---:|:---:|:---:|
+|Deep Learning|MOOC|[[Coursera](https://www.coursera.org/specializations/deep-learning)] [[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|deeplearning.ai|
+|CS231n|MOOC|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|Stanford University|
