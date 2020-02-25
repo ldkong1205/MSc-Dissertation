@@ -75,7 +75,7 @@ C. Building a Deep Neural Network: Step by Step
 
 # Acknowledgement
 
-I would like to thank to my advisor Prof. [WEN BIHAN](http://bihanwen.com) and to Mr. [LIU JUNHAO](https://github.com/jhliu17) for supporting me through this project.
+I would like to thank to my advisor Prof. [WEN BIHAN](http://bihanwen.com) and to Mr. [LIU JUNHAO](https://github.com/jhliu17) for supporting me through this project. I would like to thank to my parents and my family for supporting me do whatever I want to do.
 
 
 # Reference
