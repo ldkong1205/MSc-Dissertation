@@ -29,7 +29,8 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 1.4 Major Contribution of Dissertation
 
-### Chapter 2 - Deep Learning
+### [Chapter 2 - Deep Learning](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%202%20-%20Deep%20Learning.md)
+
 2.1 Overview
 
 2.2 Logistic Regression
@@ -40,15 +41,15 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 2.5 Optimization
 
-### Chapter 3 - Object Detection
+### [Chapter 3 - Object Detection](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%203%20-%20Object%20Detection.md)
 
 3.1 Overview
 
-### Chapter 4 - X-Ray Images
+### [Chapter 4 - X-Ray Images](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%204%20-%20X-Ray%20Images.md)
 
 4.1 Overview
 
-### Chapter 5 - Experiments
+### [Chapter 5 - Experiments](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%205%20-%20Experiments.md)
 
 5.1 Overview
 
@@ -56,13 +57,13 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 5.3 Object Detection by Fast R-CNN
 
-### Chapter 6 - Conclusion and Future Work
+### [Chapter 6 - Conclusion and Future Work](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%206%20-%20Conclusion%20and%20Future%20Work.md)
 
 6.1 Conclusion
 
 6.2 Future Work
 
-### Appendices
+### [Appendices](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Appendices.md)
 
 A. Image Recognition using Logistic Regression
 
@@ -75,3 +76,7 @@ C. Building a Deep Neural Network: Step by Step
 # Acknowledgements
 
 I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) for supporting me through this project.
+
+
+# Reference
+
