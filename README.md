@@ -75,7 +75,7 @@ C. Building a Deep Neural Network: Step by Step
 
 # Acknowledgement
 
-I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) for supporting me through this project.
+I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) and Mr. [LIU JUNHAO](https://github.com/jhliu17) for supporting me through this project.
 
 
 # Reference
@@ -87,4 +87,9 @@ Existing works on X-Ray dataset and baseline methods:
 |CHR Network|Baseline Code|[[Code](https://github.com/MeioJane/CHR)] [[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|
 |SIXRay Dataset|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
 
+Image Detection Deep Neural Networks - Benchmarking:
 
+|Name|Link|
+|:---:|:---:|:---:|
+|YOLOv3      |[[TF](https://github.com/YunYang1994/tensorflow-yolov3)] [[PyTorch](https://github.com/eriklindernoren/PyTorch-YOLOv3)] [[Keras](https://github.com/qqwweee/keras-yolo3)] [[Paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)] [[Tutorial](https://medium.com/@viirya/yolo-a-very-simple-tutorial-8d573a303480)]|
+|Faster R-CNN|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
