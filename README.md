@@ -82,9 +82,9 @@ I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) for supp
 
 + Existing Works on X-Ray dataset and Baseline methods:
 
-|SixRay Dataset|
-|-------|:---:|-----------|
-| rhio  | 384 | robot     |
-| haroo | .3  | bird      |
+
+|:---------:|:-----:|:----_:|
+|CHR Network|baseline code|[code][paper]   |
+|SIXRay Dataset|X-Ray image set|[dataset repo] |
 
 
