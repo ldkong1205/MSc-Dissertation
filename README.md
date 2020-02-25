@@ -80,11 +80,11 @@ I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) for supp
 
 # Reference
 
-Existing Works on X-Ray dataset and Baseline methods:
+Existing works on X-Ray dataset and baseline methods:
 
 |Name|Content|Link|
 |:---:|:---:|:---:|
-|CHR Network|baseline code|[code][paper]|
-|SIXRay Dataset|X-Ray image set|[dataset repo] |
+|CHR Network|Baseline Code|[Code](https://github.com/MeioJane/CHR)[paper](https://arxiv.org/pdf/1901.00303.pdf)|
+|SIXRay Dataset|X-Ray Image Set|[Dataset Repo](https://github.com/MeioJane/SIXray)|
 
 
