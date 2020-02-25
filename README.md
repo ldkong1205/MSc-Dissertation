@@ -124,7 +124,7 @@ Skills and knowledge which are useful for deep learning research:
 
 Reference papers:
 
-- "Object Detection with Deep Learning: A Review". [[Link](https://ieeexplore.ieee.org/document/8627998)]
+- "Object Detection with Deep Learning: A Review". [[Link](https://ieeexplore.ieee.org/document/8627998)][[PDF](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CDL%20for%20Object%20Detection%20Review%E3%80%8D.pdf)]
 
 - "You Only Look Once: Unified, Real-Time Object Detection". [[arXiv](https://arxiv.org/abs/1506.02640)]
 
