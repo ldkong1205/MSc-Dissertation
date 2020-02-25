@@ -110,14 +110,14 @@ Some skills and knowledge which are useful for deep learning research:
 |How to Git|Doc|[[Doc](https://docs.google.com/document/d/1d7CXPrzqcc04tgO8GgTCB9MHXyPgJ3UodiaVpqQD_Ok/edit)]|Prof. [WEN BIHAN](http://bihanwen.com)|
 |Deep Learning Basics|Doc|[[Doc](https://docs.google.com/document/d/1trifyUKkQ6iEulW6k9SyhyYyd2-Z6HMgHf_KHQhKrm0/edit#heading=h.o4qnlyv0f4m8)]|Prof. [WEN BIHAN](http://bihanwen.com)|
 
-Papers:
+Reference papers:
 
-- Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye, "SIXray:A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images". [[arXiv](https://arxiv.org/abs/1901.00303v1)]
+- "SIXray:A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images". [[arXiv](https://arxiv.org/abs/1901.00303v1)]
 
-- Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, "You Only Look Once: Unified, Real-Time Object Detection". [[arXiv](https://arxiv.org/abs/1506.02640)]
+- "You Only Look Once: Unified, Real-Time Object Detection". [[arXiv](https://arxiv.org/abs/1506.02640)]
 
-- Joseph Redmon, Ali Farhadi, "YOLO9000: Better, Faster, Stronger". [[arXiv](https://arxiv.org/abs/1612.08242)]
+- "YOLO9000: Better, Faster, Stronger". [[arXiv](https://arxiv.org/abs/1612.08242)]
 
-- Joseph Redmon, Ali Farhadi, "YOLOv3: An Incremental Improvement". [[arXiv](https://arxiv.org/abs/1804.02767)]
+- "YOLOv3: An Incremental Improvement". [[arXiv](https://arxiv.org/abs/1804.02767)]
 
-- Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". [[arXiv](https://arxiv.org/abs/1506.01497)]
+- "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". [[arXiv](https://arxiv.org/abs/1506.01497)]
