@@ -80,14 +80,14 @@ I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) and to t
 
 # References
 
-Existing works on X-Ray dataset and baseline methods:
+1. Existing works on X-Ray dataset and baseline methods:
 
 |Name|Content|Link|
 |:---:|:---:|:---:|
 |CHR Network|Baseline Code|[[Code](https://github.com/MeioJane/CHR)] [[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|
 |SIXRay Dataset|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
 
-Image Detection Deep Neural Networks - Benchmarking:
+2. Image Detection Deep Neural Networks - Benchmarking:
 
 |Name|Link|
 |:---:|:---:|
@@ -96,7 +96,7 @@ Image Detection Deep Neural Networks - Benchmarking:
 |SSD      |[[Keras](https://github.com/kuhung/SSD_keras)] [[TensorFlow](https://github.com/balancap/SSD-Tensorflow)] [[PyTorch](https://github.com/amdegroot/ssd.pytorch)]  [[Paper](https://arxiv.org/pdf/1512.02325.pdf)] [[Tutorial](https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad)]|
 |RFBNet      |[Keras] [TensorFlow] [[PyTorch](https://github.com/ruinmessi/RFBNet)]  [[Paper](https://arxiv.org/pdf/1711.07767.pdf)] [[Tutorial](https://blog.csdn.net/u014380165/article/details/81556769)]|
 
-Some skills and knowledge which are useful for deep learning research:
+3. Some skills and knowledge which are useful for deep learning research:
 
 |Name |Category |Link |Offered By |
 |:---:|:---:|:---:|:---:|
@@ -110,9 +110,7 @@ Some skills and knowledge which are useful for deep learning research:
 |How to Git|Doc|[[Doc](https://docs.google.com/document/d/1d7CXPrzqcc04tgO8GgTCB9MHXyPgJ3UodiaVpqQD_Ok/edit)]|Prof. [WEN BIHAN](http://bihanwen.com)|
 |Deep Learning Basics|Doc|[[Doc](https://docs.google.com/document/d/1trifyUKkQ6iEulW6k9SyhyYyd2-Z6HMgHf_KHQhKrm0/edit#heading=h.o4qnlyv0f4m8)]|Prof. [WEN BIHAN](http://bihanwen.com)|
 
-Reference papers:
-
-Object Detection:
+4. Reference papers:
 
 - "Object Detection with Deep Learning: A Review". [[Link](https://ieeexplore.ieee.org/document/8627998)]
 
@@ -123,7 +121,5 @@ Object Detection:
 - "YOLOv3: An Incremental Improvement". [[arXiv](https://arxiv.org/abs/1804.02767)]
 
 - "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". [[arXiv](https://arxiv.org/abs/1506.01497)]
-
-X-Ray Images:
 
 - "SIXray: A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images". [[arXiv](https://arxiv.org/abs/1901.00303v1)]
