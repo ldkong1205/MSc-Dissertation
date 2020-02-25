@@ -31,45 +31,45 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 ### [Chapter 2 - Deep Learning](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%202%20-%20Deep%20Learning.md)
 
-2.1 Overview
+&emsp; 2.1 Overview
 
-2.2 Logistic Regression
+&emsp; 2.2 Logistic Regression
 
-2.3 Activation Functions
+&emsp; 2.3 Activation Functions
 
-2.4 Gradient Descent for Neural Networks
+&emsp; 2.4 Gradient Descent for Neural Networks
 
-2.5 Optimization
+&emsp; 2.5 Optimization
 
 ### [Chapter 3 - Object Detection](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%203%20-%20Object%20Detection.md)
 
-3.1 Overview
+&emsp; 3.1 Overview
 
 ### [Chapter 4 - X-Ray Images](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%204%20-%20X-Ray%20Images.md)
 
-4.1 Overview
+&emsp; 4.1 Overview
 
 ### [Chapter 5 - Experiments](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%205%20-%20Experiments.md)
 
-5.1 Overview
+&emsp; 5.1 Overview
 
-5.2 Object Detection by YOLOv3
+&emsp; 5.2 Object Detection by YOLOv3
 
-5.3 Object Detection by Fast R-CNN
+&emsp; 5.3 Object Detection by Fast R-CNN
 
 ### [Chapter 6 - Conclusion and Future Work](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%206%20-%20Conclusion%20and%20Future%20Work.md)
 
-6.1 Conclusion
+&emsp; 6.1 Conclusion
 
-6.2 Future Work
+&emsp; 6.2 Future Work
 
 ### [Appendices](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Appendices.md)
 
-A. Image Recognition using Logistic Regression
+&emsp; A. Image Recognition using Logistic Regression
 
-B. Planar Data Classification with a Hidden Layer
+&emsp; B. Planar Data Classification with a Hidden Layer
 
-C. Building a Deep Neural Network: Step by Step
+&emsp; C. Building a Deep Neural Network: Step by Step
 
 
 
@@ -82,7 +82,7 @@ I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) and to t
 
 1. Existing works on X-Ray dataset and baseline methods:
 
-|Name|Content|Link|
+&emsp; |Name|Content|Link|
 |:---:|:---:|:---:|
 |CHR Network|Baseline Code|[[Code](https://github.com/MeioJane/CHR)] [[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|
 |SIXRay Dataset|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
