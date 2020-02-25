@@ -23,53 +23,59 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 &emsp;&emsp; 1.1 Background
 
-&emsp; 1.2 Motivation
+&emsp;&emsp; 1.2 Motivation
 
-&emsp; 1.3 Objective and Specification
+&emsp;&emsp; 1.3 Objective and Specification
 
-&emsp; 1.4 Major Contribution of Dissertation
+&emsp;&emsp; 1.4 Major Contribution of Dissertation
 
 ### [Chapter 2 - Deep Learning](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%202%20-%20Deep%20Learning.md)
 
-&emsp; 2.1 Overview
+&emsp;&emsp; 2.1 Overview
 
-&emsp; 2.2 Logistic Regression
+&emsp;&emsp; 2.2 Logistic Regression
 
-&emsp; 2.3 Activation Functions
+&emsp;&emsp; 2.3 Activation Functions
 
-&emsp; 2.4 Gradient Descent for Neural Networks
+&emsp;&emsp; 2.4 Gradient Descent for Neural Networks
 
-&emsp; 2.5 Optimization
+&emsp;&emsp; 2.5 Optimization
 
 ### [Chapter 3 - Object Detection](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%203%20-%20Object%20Detection.md)
 
-&emsp; 3.1 Overview
+&emsp;&emsp; 3.1 Overview
+
+&emsp;&emsp; 3.2 YOLOv3
+
+&emsp;&emsp; 3.3 Faster R-CNN
 
 ### [Chapter 4 - X-Ray Images](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%204%20-%20X-Ray%20Images.md)
 
-&emsp; 4.1 Overview
+&emsp;&emsp; 4.1 Overview
+
+&emsp;&emsp; 4.2 Basic Knowledge
 
 ### [Chapter 5 - Experiments](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%205%20-%20Experiments.md)
 
-&emsp; 5.1 Overview
+&emsp;&emsp; 5.1 Overview
 
-&emsp; 5.2 Object Detection by YOLOv3
+&emsp;&emsp; 5.2 Object Detection by YOLOv3
 
-&emsp; 5.3 Object Detection by Fast R-CNN
+&emsp;&emsp; 5.3 Object Detection by Fast R-CNN
 
 ### [Chapter 6 - Conclusion and Future Work](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%206%20-%20Conclusion%20and%20Future%20Work.md)
 
-&emsp; 6.1 Conclusion
+&emsp;&emsp; 6.1 Conclusion
 
-&emsp; 6.2 Future Work
+&emsp;&emsp; 6.2 Future Work
 
 ### [Appendices](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Appendices.md)
 
-&emsp; A. Image Recognition using Logistic Regression
+&emsp;&emsp; A. Image Recognition using Logistic Regression
 
-&emsp; B. Planar Data Classification with a Hidden Layer
+&emsp;&emsp; B. Planar Data Classification with a Hidden Layer
 
-&emsp; C. Building a Deep Neural Network: Step by Step
+&emsp;&emsp; C. Building a Deep Neural Network: Step by Step
 
 
 
