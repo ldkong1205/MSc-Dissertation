@@ -80,14 +80,15 @@ I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) and to t
 
 # References
 
-1. Existing works on X-Ray dataset and baseline methods:
+Existing works on X-Ray dataset and baseline methods:
 
-&emsp; |Name|Content|Link|
-&emsp; |:---:|:---:|:---:|
-&emsp; |CHR Network|Baseline Code|[[Code](https://github.com/MeioJane/CHR)] [[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|
-&emsp; |SIXRay Dataset|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
+|Name|Content|Link|
+|:---:|:---:|:---:|
+|CHR Network|Baseline Code|[[Code](https://github.com/MeioJane/CHR)] [[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|
+|SIXRay Dataset|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
 
-2. Image Detection Deep Neural Networks - Benchmarking:
+<br>
+Image Detection Deep Neural Networks - Benchmarking:
 
 |Name|Link|
 |:---:|:---:|
@@ -96,7 +97,8 @@ I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) and to t
 |SSD      |[[Keras](https://github.com/kuhung/SSD_keras)] [[TensorFlow](https://github.com/balancap/SSD-Tensorflow)] [[PyTorch](https://github.com/amdegroot/ssd.pytorch)]  [[Paper](https://arxiv.org/pdf/1512.02325.pdf)] [[Tutorial](https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad)]|
 |RFBNet      |[Keras] [TensorFlow] [[PyTorch](https://github.com/ruinmessi/RFBNet)]  [[Paper](https://arxiv.org/pdf/1711.07767.pdf)] [[Tutorial](https://blog.csdn.net/u014380165/article/details/81556769)]|
 
-3. Some skills and knowledge which are useful for deep learning research:
+<br>
+Some skills and knowledge which are useful for deep learning research:
 
 |Name |Category |Link |Offered By |
 |:---:|:---:|:---:|:---:|
