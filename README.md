@@ -102,7 +102,7 @@ Some skills and knowledge which are useful for deep learning research:
 |:---:|:---:|:---:|:---:|
 |Deep Learning|MOOC|[[Coursera](https://www.coursera.org/specializations/deep-learning)]|deeplearning.ai|
 |TensorFlow in Practice|MOOC|[[Coursera](https://www.coursera.org/specializations/tensorflow-in-practice)]|deeplearning.ai|
-|CS231n: CNN for Visual Recognition|MOOC|[[Link](http://cs231n.stanford.edu/)] [[YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]|Stanford University|
-|CS230: Deep Learning|Tutorial|[[Link](https://stanford.edu/~shervine/teaching/cs-230/)] [[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)]|Stanford University|
+|CS231n: CNN for Visual Recognition|MOOC|[[Tutorial](http://cs231n.stanford.edu/)] [[YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]|Stanford University|
+|CS230: Deep Learning|MOOC|[[Tutorial](https://stanford.edu/~shervine/teaching/cs-230/)] [[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)]|Stanford University|
 |How to Git|Doc|[[Doc](https://docs.google.com/document/d/1d7CXPrzqcc04tgO8GgTCB9MHXyPgJ3UodiaVpqQD_Ok/edit)]|Prof. [WEN BIHAN](http://bihanwen.com)|
 |Deep Learning Basics|Doc|[[Doc](https://docs.google.com/document/d/1trifyUKkQ6iEulW6k9SyhyYyd2-Z6HMgHf_KHQhKrm0/edit#heading=h.o4qnlyv0f4m8)]|Prof. [WEN BIHAN](http://bihanwen.com)|
