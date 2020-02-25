@@ -98,7 +98,8 @@ Image Detection Deep Neural Networks - Benchmarking:
 
 Some skills and knowledge which are useful for deep learning research:
 
-|Name|Content|Link|Offered By|
+|Name |Category |Link |Offered By |
 |:---:|:---:|:---:|:---:|
-|Deep Learning|MOOC|[[Coursera](https://www.coursera.org/specializations/deep-learning)] [[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|deeplearning.ai|
-|CS231n|MOOC|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|Stanford University|
+|Deep Learning|MOOC|[[Coursera](https://www.coursera.org/specializations/deep-learning)]|deeplearning.ai|
+|TensorFlow in Practice|MOOC|[[Coursera](https://www.coursera.org/specializations/tensorflow-in-practice)]|deeplearning.ai|
+|CS231n|MOOC|[[Link](http://cs231n.stanford.edu/)][[YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]|Stanford University|
