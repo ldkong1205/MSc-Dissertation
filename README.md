@@ -90,6 +90,6 @@ Existing works on X-Ray dataset and baseline methods:
 Image Detection Deep Neural Networks - Benchmarking:
 
 |Name|Link|
-|:---:|:---:|:---:|
+|:---:|:---:|
 |YOLOv3      |[[TF](https://github.com/YunYang1994/tensorflow-yolov3)] [[PyTorch](https://github.com/eriklindernoren/PyTorch-YOLOv3)] [[Keras](https://github.com/qqwweee/keras-yolo3)] [[Paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)] [[Tutorial](https://medium.com/@viirya/yolo-a-very-simple-tutorial-8d573a303480)]|
-|Faster R-CNN|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
+|Faster R-CNN|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
