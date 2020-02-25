@@ -75,7 +75,7 @@ C. Building a Deep Neural Network: Step by Step
 
 # Acknowledgement
 
-I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) and Mr. [LIU JUNHAO](https://github.com/jhliu17) for supporting me through this project.
+I would like to thank to my advisor Prof. [WEN BIHAN](http://bihanwen.com) and to Mr. [LIU JUNHAO](https://github.com/jhliu17) for supporting me through this project.
 
 
 # Reference
@@ -91,5 +91,13 @@ Image Detection Deep Neural Networks - Benchmarking:
 
 |Name|Link|
 |:---:|:---:|
-|YOLOv3      |[[TF](https://github.com/YunYang1994/tensorflow-yolov3)] [[PyTorch](https://github.com/eriklindernoren/PyTorch-YOLOv3)] [[Keras](https://github.com/qqwweee/keras-yolo3)] [[Paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)] [[Tutorial](https://medium.com/@viirya/yolo-a-very-simple-tutorial-8d573a303480)]|
-|Faster R-CNN|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
+|YOLOv3      |[[TF](https://github.com/YunYang1994/tensorflow-yolov3)] 
+              [[PyTorch](https://github.com/eriklindernoren/PyTorch-YOLOv3)] 
+              [[Keras](https://github.com/qqwweee/keras-yolo3)] 
+              [[Paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)] 
+              [[Tutorial](https://medium.com/@viirya/yolo-a-very-simple-tutorial-8d573a303480)]|
+|Faster R-CNN|[[TF](https://github.com/endernewton/tf-faster-rcnn)] 
+              [[PyTorch](https://github.com/jwyang/faster-rcnn.pytorch)] 
+              [[Keras](https://github.com/you359/Keras-FasterRCNN)] 
+              [[Paper](https://arxiv.org/pdf/1506.01497.pdf)] 
+              [[Tutorial](https://medium.com/@smallfishbigsea/faster-r-cnn-explained-864d4fb7e3f8)]|
