@@ -45,9 +45,11 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 &emsp; 3.1 Overview
 
-&emsp; 3.2 YOLOv3
+&emsp; 3.2 Convolutional Neural Networks
 
-&emsp; 3.3 Faster R-CNN
+&emsp; 3.3 YOLOv3
+
+&emsp; 3.4 Faster R-CNN
 
 ### [Chapter 4 - X-Ray Images](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%204%20-%20X-Ray%20Images.md)
 
@@ -63,7 +65,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 &emsp; 5.3 Object Detection by YOLOv3
 
-&emsp; 5.4 Object Detection by Fast R-CNN
+&emsp; 5.4 Object Detection by Faster R-CNN
 
 ### [Chapter 6 - Conclusion and Future Work](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%206%20-%20Conclusion%20and%20Future%20Work.md)
 
@@ -85,6 +87,13 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 &emsp; F. Building Deep Neural Networks with TensorFlow
 
+&emsp; G. Convolutional Module: Step by Step
+
+&emsp; H. Residual Networks
+
+&emsp; I. Car Detection with YOLO
+
+&emsp; J. Face Recognition
 
 
 # Acknowledgement
