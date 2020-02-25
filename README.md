@@ -21,7 +21,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 ### [Chapter 1 - Introduction](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%201%20-%20Introduction.md)
 
-&emsp; 1.1 Background
+&emsp;&emsp; 1.1 Background
 
 &emsp; 1.2 Motivation
 
