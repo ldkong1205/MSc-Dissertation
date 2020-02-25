@@ -88,6 +88,7 @@ Existing works on X-Ray dataset and baseline methods:
 |SIXRay Dataset|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
 
 <br>
+
 Image Detection Deep Neural Networks - Benchmarking:
 
 |Name|Link|
@@ -98,6 +99,7 @@ Image Detection Deep Neural Networks - Benchmarking:
 |RFBNet      |[Keras] [TensorFlow] [[PyTorch](https://github.com/ruinmessi/RFBNet)]  [[Paper](https://arxiv.org/pdf/1711.07767.pdf)] [[Tutorial](https://blog.csdn.net/u014380165/article/details/81556769)]|
 
 <br>
+
 Some skills and knowledge which are useful for deep learning research:
 
 |Name |Category |Link |Offered By |
@@ -112,7 +114,9 @@ Some skills and knowledge which are useful for deep learning research:
 |How to Git|Doc|[[Doc](https://docs.google.com/document/d/1d7CXPrzqcc04tgO8GgTCB9MHXyPgJ3UodiaVpqQD_Ok/edit)]|Prof. [WEN BIHAN](http://bihanwen.com)|
 |Deep Learning Basics|Doc|[[Doc](https://docs.google.com/document/d/1trifyUKkQ6iEulW6k9SyhyYyd2-Z6HMgHf_KHQhKrm0/edit#heading=h.o4qnlyv0f4m8)]|Prof. [WEN BIHAN](http://bihanwen.com)|
 
-4. Reference papers:
+<br>
+
+Reference papers:
 
 - "Object Detection with Deep Learning: A Review". [[Link](https://ieeexplore.ieee.org/document/8627998)]
 
