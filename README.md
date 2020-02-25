@@ -102,5 +102,6 @@ Some skills and knowledge which are useful for deep learning research:
 |:---:|:---:|:---:|:---:|
 |Deep Learning|MOOC|[[Coursera](https://www.coursera.org/specializations/deep-learning)]|deeplearning.ai|
 |TensorFlow in Practice|MOOC|[[Coursera](https://www.coursera.org/specializations/tensorflow-in-practice)]|deeplearning.ai|
-|CS231n|MOOC|[[Link](http://cs231n.stanford.edu/)] [[YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]|Stanford University|
+|CS231n: CNN for Visual Recognition|MOOC|[[Link](http://cs231n.stanford.edu/)] [[YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]|Stanford University|
 |How to Git|Document|[[Link](https://docs.google.com/document/d/1d7CXPrzqcc04tgO8GgTCB9MHXyPgJ3UodiaVpqQD_Ok/edit)]|Prof. [WEN BIHAN](http://bihanwen.com)|
+|Deep Learning Basics|Document|[[Link](https://docs.google.com/document/d/1trifyUKkQ6iEulW6k9SyhyYyd2-Z6HMgHf_KHQhKrm0/edit#heading=h.o4qnlyv0f4m8)]|Prof. [WEN BIHAN](http://bihanwen.com)|
