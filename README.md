@@ -78,7 +78,7 @@ C. Building a Deep Neural Network: Step by Step
 I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) and to thank Mr. [LIU JUNHAO](https://github.com/jhliu17) for supporting me through this project. I would like to thank my parents and my family for supporting me to do whatever I want to do.
 
 
-# Reference
+# References
 
 Existing works on X-Ray dataset and baseline methods:
 
@@ -109,3 +109,15 @@ Some skills and knowledge which are useful for deep learning research:
 |CS221: Artificial Intelligence|MOOC|[[Tutorial](https://stanford.edu/~shervine/teaching/cs-221/)] [[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)]|Stanford University|
 |How to Git|Doc|[[Doc](https://docs.google.com/document/d/1d7CXPrzqcc04tgO8GgTCB9MHXyPgJ3UodiaVpqQD_Ok/edit)]|Prof. [WEN BIHAN](http://bihanwen.com)|
 |Deep Learning Basics|Doc|[[Doc](https://docs.google.com/document/d/1trifyUKkQ6iEulW6k9SyhyYyd2-Z6HMgHf_KHQhKrm0/edit#heading=h.o4qnlyv0f4m8)]|Prof. [WEN BIHAN](http://bihanwen.com)|
+
+Papers:
+
+- Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye, "SIXray:A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images". [[arXiv](https://arxiv.org/abs/1901.00303v1)]
+
+- Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, "You Only Look Once: Unified, Real-Time Object Detection". [[arXiv](https://arxiv.org/abs/1506.02640)]
+
+- Joseph Redmon, Ali Farhadi, "YOLO9000: Better, Faster, Stronger". [[arXiv](https://arxiv.org/abs/1612.08242)]
+
+- Joseph Redmon, Ali Farhadi, "YOLOv3: An Incremental Improvement". [[arXiv](https://arxiv.org/abs/1804.02767)]
+
+- Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". [[arXiv](https://arxiv.org/abs/1506.01497)]
