@@ -105,6 +105,7 @@ Some skills and knowledge which are useful for deep learning research:
 |CS231n: CNN for Visual Recognition|MOOC|[[Tutorial](http://cs231n.stanford.edu/)] [[YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]|Stanford University|
 |CS230: Deep Learning|MOOC|[[Tutorial](https://stanford.edu/~shervine/teaching/cs-230/)] [[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)]|Stanford University|
 |CS229: Machine Learning|MOOC|[[Tutorial](https://stanford.edu/~shervine/teaching/cs-229/)] [[YouTube](https://www.youtube.com/playlist?list=PLEBC422EC5973B4D8)]|Stanford University|
+|CS224: NLP with Deep Learning|MOOC|[[Tutorial](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)] [[YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)]|Stanford University|
 |CS221: Artificial Intelligence|MOOC|[[Tutorial](https://stanford.edu/~shervine/teaching/cs-221/)] [[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)]|Stanford University|
 |How to Git|Doc|[[Doc](https://docs.google.com/document/d/1d7CXPrzqcc04tgO8GgTCB9MHXyPgJ3UodiaVpqQD_Ok/edit)]|Prof. [WEN BIHAN](http://bihanwen.com)|
 |Deep Learning Basics|Doc|[[Doc](https://docs.google.com/document/d/1trifyUKkQ6iEulW6k9SyhyYyd2-Z6HMgHf_KHQhKrm0/edit#heading=h.o4qnlyv0f4m8)]|Prof. [WEN BIHAN](http://bihanwen.com)|
