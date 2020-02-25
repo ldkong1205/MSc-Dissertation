@@ -73,10 +73,18 @@ C. Building a Deep Neural Network: Step by Step
 
 
 
-# Acknowledgements
+# Acknowledgement
 
 I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) for supporting me through this project.
 
 
 # Reference
+
++ Existing Works on X-Ray dataset and Baseline methods:
+
+|SixRay Dataset|
+|-------|:---:|-----------|
+| rhio  | 384 | robot     |
+| haroo | .3  | bird      |
+
 
