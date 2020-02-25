@@ -84,7 +84,7 @@ Existing works on X-Ray dataset and baseline methods:
 
 |Name|Content|Link|
 |:---:|:---:|:---:|
-|CHR Network|Baseline Code|[Code](https://github.com/MeioJane/CHR)[paper](https://arxiv.org/pdf/1901.00303.pdf)|
-|SIXRay Dataset|X-Ray Image Set|[Dataset Repo](https://github.com/MeioJane/SIXray)|
+|CHR Network|Baseline Code|[[Code](https://github.com/MeioJane/CHR)][[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|
+|SIXRay Dataset|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
 
 
