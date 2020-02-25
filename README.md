@@ -59,9 +59,11 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 &emsp; 5.1 Overview
 
-&emsp; 5.2 Object Detection by YOLOv3
+&emsp; 5.1 SIXRay Dataset
 
-&emsp; 5.3 Object Detection by Fast R-CNN
+&emsp; 5.3 Object Detection by YOLOv3
+
+&emsp; 5.4 Object Detection by Fast R-CNN
 
 ### [Chapter 6 - Conclusion and Future Work](https://github.com/ldkong1205/MSc-Dissertation/blob/master/Chapter%206%20-%20Conclusion%20and%20Future%20Work.md)
 
@@ -81,7 +83,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 &emsp; E. Optimization
 
-&emsp; F. Building Deep Neural Network with TensorFlow
+&emsp; F. Building Deep Neural Networks with TensorFlow
 
 
 
