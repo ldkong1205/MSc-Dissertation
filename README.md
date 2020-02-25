@@ -83,9 +83,9 @@ I would like to thank my advisor Prof. [WEN BIHAN](http://bihanwen.com) and to t
 1. Existing works on X-Ray dataset and baseline methods:
 
 &emsp; |Name|Content|Link|
-|:---:|:---:|:---:|
-|CHR Network|Baseline Code|[[Code](https://github.com/MeioJane/CHR)] [[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|
-|SIXRay Dataset|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
+&emsp; |:---:|:---:|:---:|
+&emsp; |CHR Network|Baseline Code|[[Code](https://github.com/MeioJane/CHR)] [[Paper](https://arxiv.org/pdf/1901.00303.pdf)]|
+&emsp; |SIXRay Dataset|X-Ray Image Set|[[Dataset Repo](https://github.com/MeioJane/SIXray)]|
 
 2. Image Detection Deep Neural Networks - Benchmarking:
 
