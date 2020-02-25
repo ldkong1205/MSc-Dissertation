@@ -112,7 +112,9 @@ Some skills and knowledge which are useful for deep learning research:
 
 Reference papers:
 
-- "SIXray:A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images". [[arXiv](https://arxiv.org/abs/1901.00303v1)]
+Object Detection:
+
+- "Object Detection with Deep Learning: A Review". [[Link](https://ieeexplore.ieee.org/document/8627998)]
 
 - "You Only Look Once: Unified, Real-Time Object Detection". [[arXiv](https://arxiv.org/abs/1506.02640)]
 
@@ -121,3 +123,7 @@ Reference papers:
 - "YOLOv3: An Incremental Improvement". [[arXiv](https://arxiv.org/abs/1804.02767)]
 
 - "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". [[arXiv](https://arxiv.org/abs/1506.01497)]
+
+X-Ray Images:
+
+- "SIXray: A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images". [[arXiv](https://arxiv.org/abs/1901.00303v1)]
