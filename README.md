@@ -126,12 +126,12 @@ Reference papers:
 
 - "Object Detection with Deep Learning: A Review". [[Link](https://ieeexplore.ieee.org/document/8627998)] [[PDF](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CDL%20for%20Object%20Detection%20Review%E3%80%8D.pdf)]
 
-- "You Only Look Once: Unified, Real-Time Object Detection". [[arXiv](https://arxiv.org/abs/1506.02640)]
+- "You Only Look Once: Unified, Real-Time Object Detection". [[arXiv](https://arxiv.org/abs/1506.02640)] [[PDF](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CYOLOv1%E3%80%8D.pdf)]
 
-- "YOLO9000: Better, Faster, Stronger". [[arXiv](https://arxiv.org/abs/1612.08242)]
+- "YOLO9000: Better, Faster, Stronger". [[arXiv](https://arxiv.org/abs/1612.08242)] [[PDF](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CYOLO9000%E3%80%8D.pdf)]
 
-- "YOLOv3: An Incremental Improvement". [[arXiv](https://arxiv.org/abs/1804.02767)]
+- "YOLOv3: An Incremental Improvement". [[arXiv](https://arxiv.org/abs/1804.02767)] [[PDF](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CYOLOv3%E3%80%8D.pdf)]
 
-- "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". [[arXiv](https://arxiv.org/abs/1506.01497)]
+- "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks". [[arXiv](https://arxiv.org/abs/1506.01497)] [[PDF](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CFaster%20R-CNN%E3%80%8D.pdf)]
 
-- "SIXray: A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images". [[arXiv](https://arxiv.org/abs/1901.00303v1)]
+- "SIXray: A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images". [[arXiv](https://arxiv.org/abs/1901.00303v1)] [[PDF](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CSIXray%E3%80%8D.pdf)]
