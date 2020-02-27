@@ -1,7 +1,6 @@
 |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/ntu_logo.png)|
 |---|
 
-🏡 Back to [Homepage](https://github.com/ldkong1205/MSc-Dissertation/blob/master/README.md)
 <br><br>
 
 # CONTENT - Appendices
@@ -72,13 +71,13 @@
 
 ### D. Initialization, Regularization, and Gradient Checking
 
-&emsp; D.1 Initialization: Neural Network Model
+&emsp; D.1 - Initialization: Neural Network Model
 
-&emsp;&emsp;&emsp; D.1.1 Zero Initialization
+&emsp;&emsp;&emsp; D.1.1 - Zero Initialization
 
-&emsp;&emsp;&emsp; D.1.2 Random Initialization
+&emsp;&emsp;&emsp; D.1.2 - Random Initialization
 
-&emsp;&emsp;&emsp; D.1.3 He Initialization
+&emsp;&emsp;&emsp; D.1.3 - He Initialization
 
 
 
