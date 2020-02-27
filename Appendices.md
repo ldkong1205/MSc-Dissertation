@@ -2,7 +2,7 @@
 |---|
 
 
-# 📚 CONTENT - Appendices
+# 📚 CONTENT
 
 ### [A. Image Recognition using Logistic Regression]()
 
