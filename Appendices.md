@@ -3,7 +3,9 @@
 
 🏡 Back to [Homepage](https://github.com/ldkong1205/MSc-Dissertation/blob/master/README.md)
 
-# CONTENT
+<br>
+
+# CONTENT - Appendices
 
 ### A. Image Recognition using Logistic Regression
 
