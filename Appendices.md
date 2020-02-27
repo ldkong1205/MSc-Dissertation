@@ -10,7 +10,7 @@
 
 &emsp; A.4 - Building the Parts
 
-&emsp;&emsp;&emsp; A.4.1 - Helper Function
+&emsp;&emsp;&emsp;&emsp; A.4.1 - Helper Function
 
 &emsp;&emsp; A.4.2 - Initializing Parameters
 
