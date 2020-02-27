@@ -14,7 +14,24 @@
 
 &emsp;&emsp; A.4.2 - Initializing Parameters
 
+&emsp;&emsp; A.4.3 - Forward and Backward Propagations
+
+&emsp;&emsp; A.4.4 - Optimization
+
+&emsp;&emsp; A.4.5 - Prediction
+
+&emsp; A.5 - Merge all Functions into a Model
+
+
+
 ### B. Planar Data Classification with a Hidden Layer
+
+&emsp; B.1 - Packages
+
+&emsp; B.2 Dataset
+
+
+
 
 ### C. Building a Deep Neural Network: Step by Step
 
