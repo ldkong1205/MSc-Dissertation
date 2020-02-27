@@ -2,17 +2,17 @@
 
 ### A. Image Recognition using Logistic Regression
 
-&emsp; A.1 Packages
+&emsp; A.1 - Packages
 
-&emsp; A.2 Overview of the Problem Set
+&emsp; A.2 - Overview of the Problem Set
 
-&emsp; A.3 General Architecture of the Learning Algorithm
+&emsp; A.3 - General Architecture of the Learning Algorithm
 
-&emsp; A.4 Building the Parts
+&emsp; A.4 - Building the Parts
 
-&emsp;&emsp; A.4.1 Helper Function
+&emsp;&emsp; A.4.1 - Helper Function
 
-&emsp;&emsp; A.4.2 Initializing Parameters
+&emsp;&emsp; A.4.2 - Initializing Parameters
 
 ### B. Planar Data Classification with a Hidden Layer
 
