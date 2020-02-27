@@ -30,12 +30,41 @@
 
 &emsp; B.2 - Dataset
 
+&emsp; B.3 - Simple Logistic Regression
+
+&emsp; B.4 - Neural Network
+
+&emsp;&emsp;&emsp; B.4.1 - Defining the Structure
+
+&emsp;&emsp;&emsp; B.4.2 - Initializing Parameters
+
+&emsp;&emsp;&emsp; B.4.3 - The Loop
+
+&emsp;&emsp;&emsp; B.4.4 - Integration
+
+&emsp;&emsp;&emsp; B.4.5 - Prediction
 
 
 
 ### C. Building a Deep Neural Network: Step by Step
 
-&emsp; D. Initialization, Regularization, and Gradient Checking
+&emsp; C.1 - Packages
+
+&emsp; C.2 - Initialization
+
+&emsp;&emsp;&emsp; C.2.1 - Two-Layer Neural Network
+
+&emsp;&emsp;&emsp; C.2.2 - L-Layer Neural Network
+
+&emsp; C.3 - Forward Propagation Module
+
+&emsp; C.4 - Cost Function
+
+&emsp; C.5 - Backward Propagation Module
+
+
+
+### D. Initialization, Regularization, and Gradient Checking
 
 &emsp; E. Optimization
 
