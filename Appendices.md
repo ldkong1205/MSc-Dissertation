@@ -2,9 +2,9 @@
 |---|
 
 
-# CONTENT - Appendices
+# 📚 CONTENT - Appendices
 
-### A. [Image Recognition using Logistic Regression]()
+### [A. Image Recognition using Logistic Regression]()
 
 &emsp; A.1 - Packages
 
@@ -28,7 +28,7 @@
 
 
 
-### B. [Planar Data Classification with a Hidden Layer]()
+### [B. Planar Data Classification with a Hidden Layer]()
 
 &emsp; B.1 - Packages
 
@@ -50,7 +50,7 @@
 
 
 
-### C. Building a Deep Neural Network: Step by Step
+### [C. Building a Deep Neural Network: Step by Step]()
 
 &emsp; C.1 - Packages
 
@@ -68,7 +68,7 @@
 
 
 
-### D. Initialization, Regularization, and Gradient Checking
+### [D. Initialization, Regularization, and Gradient Checking]()
 
 &emsp; D.1 - Initialization: Neural Network Model
 
@@ -80,17 +80,20 @@
 
 
 
-### E. Optimization
+### [E. Optimization]()
 
-### F. Building Deep Neural Networks with TensorFlow
+### [F. Building Deep Neural Networks with TensorFlow]()
 
-### G. Convolutional Module: Step by Step
+### [G. Convolutional Module: Step by Step]()
 
-### H. Residual Networks
+### [H. Residual Networks]()
 
-### I. Car Detection with YOLO
+### [I. Car Detection with YOLO]()
 
-### J. Face Recognition
+### [J. Face Recognition]()
+
+
+
 
 # Appendices
 
