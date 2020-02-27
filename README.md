@@ -81,7 +81,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 &emsp; C. Building a Deep Neural Network: Step by Step
 
-&emsp; D. Initialization, Reguralization, and Gradient Checking
+&emsp; D. Initialization, Regularization, and Gradient Checking
 
 &emsp; E. Optimization
 
