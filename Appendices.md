@@ -10,15 +10,15 @@
 
 &emsp; A.4 - Building the Parts
 
-&emsp;&emsp;&emsp;&emsp; A.4.1 - Helper Function
+&emsp;&emsp;&emsp; A.4.1 - Helper Function
 
-&emsp;&emsp; A.4.2 - Initializing Parameters
+&emsp;&emsp;&emsp; A.4.2 - Initializing Parameters
 
-&emsp;&emsp; A.4.3 - Forward and Backward Propagations
+&emsp;&emsp;&emsp; A.4.3 - Forward and Backward Propagations
 
-&emsp;&emsp; A.4.4 - Optimization
+&emsp;&emsp;&emsp; A.4.4 - Optimization
 
-&emsp;&emsp; A.4.5 - Prediction
+&emsp;&emsp;&emsp; A.4.5 - Prediction
 
 &emsp; A.5 - Merge all Functions into a Model
 
