@@ -1,11 +1,11 @@
-🏡 Back to [Homepage](https://github.com/ldkong1205/MSc-Dissertation/blob/master/README.md)
-
 |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/ntu_logo.png)|
 |---|
 
+🏡 Back to [Homepage](https://github.com/ldkong1205/MSc-Dissertation/blob/master/README.md)
 <br>
 
 # CONTENT - Appendices
+<br>
 
 ### A. Image Recognition using Logistic Regression
 
@@ -164,3 +164,6 @@ y ̂^((i))=σ(z^((i) ) )=sigmoid(z^((i)))
 L(y ̂^((i) ),y^((i) ) )=-y^((i) )  log⁡(y ̂^((i) ) )-(1-y^((i) ))log⁡(1-y ̂^((i) ))
 The cost is then computed by summing over all the training examples:
 J=1/m ∑_(i=1)^mL(y ̂^((i) ),y^((i) ) ) 
+
+<br>
+🏡 Back to [Homepage](https://github.com/ldkong1205/MSc-Dissertation/blob/master/README.md)
