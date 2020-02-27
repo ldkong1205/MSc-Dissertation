@@ -66,17 +66,27 @@
 
 ### D. Initialization, Regularization, and Gradient Checking
 
-&emsp; E. Optimization
+&emsp; D.1 Initialization: Neural Network Model
 
-&emsp; F. Building Deep Neural Networks with TensorFlow
+&emsp;&emsp;&emsp; D.1.1 Zero Initialization
 
-&emsp; G. Convolutional Module: Step by Step
+&emsp;&emsp;&emsp; D.1.2 Random Initialization
 
-&emsp; H. Residual Networks
+&emsp;&emsp;&emsp; D.1.3 He Initialization
 
-&emsp; I. Car Detection with YOLO
 
-&emsp; J. Face Recognition
+
+### E. Optimization
+
+### F. Building Deep Neural Networks with TensorFlow
+
+### G. Convolutional Module: Step by Step
+
+### H. Residual Networks
+
+### I. Car Detection with YOLO
+
+### J. Face Recognition
 
 # Appendices
 
