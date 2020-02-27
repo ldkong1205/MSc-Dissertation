@@ -14,16 +14,6 @@
 
 &emsp; A.4 - Building the Parts
 
-&emsp;&emsp;&emsp; A.4.1 - Helper Function
-
-&emsp;&emsp;&emsp; A.4.2 - Initializing Parameters
-
-&emsp;&emsp;&emsp; A.4.3 - Forward and Backward Propagations
-
-&emsp;&emsp;&emsp; A.4.4 - Optimization
-
-&emsp;&emsp;&emsp; A.4.5 - Prediction
-
 &emsp; A.5 - Merge all Functions into a Model
 
 
@@ -38,16 +28,6 @@
 
 &emsp; B.4 - Neural Network
 
-&emsp;&emsp;&emsp; B.4.1 - Defining the Structure
-
-&emsp;&emsp;&emsp; B.4.2 - Initializing Parameters
-
-&emsp;&emsp;&emsp; B.4.3 - The Loop
-
-&emsp;&emsp;&emsp; B.4.4 - Integration
-
-&emsp;&emsp;&emsp; B.4.5 - Prediction
-
 
 
 ### [C. Building a Deep Neural Network: Step by Step]()
@@ -55,10 +35,6 @@
 &emsp; C.1 - Packages
 
 &emsp; C.2 - Initialization
-
-&emsp;&emsp;&emsp; C.2.1 - Two-Layer Neural Network
-
-&emsp;&emsp;&emsp; C.2.2 - L-Layer Neural Network
 
 &emsp; C.3 - Forward Propagation Module
 
@@ -72,11 +48,10 @@
 
 &emsp; D.1 - Initialization: Neural Network Model
 
-&emsp;&emsp;&emsp; D.1.1 - Zero Initialization
+&emsp; D.2 - Regularization
 
-&emsp;&emsp;&emsp; D.1.2 - Random Initialization
+&emsp; D.3 - Dropout
 
-&emsp;&emsp;&emsp; D.1.3 - He Initialization
 
 
 
