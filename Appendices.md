@@ -1,11 +1,10 @@
 |![image](https://github.com/ldkong1205/MSc-Dissertation/blob/master/IMAGE/ntu_logo.png)|
 |---|
 
-<br>
 
 # CONTENT - Appendices
 
-### A. Image Recognition using Logistic Regression
+### A. [Image Recognition using Logistic Regression]()
 
 &emsp; A.1 - Packages
 
@@ -29,7 +28,7 @@
 
 
 
-### B. Planar Data Classification with a Hidden Layer
+### B. [Planar Data Classification with a Hidden Layer]()
 
 &emsp; B.1 - Packages
 
