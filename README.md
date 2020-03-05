@@ -45,7 +45,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 &emsp; 3.1 Overview
 
-&emsp; 3.2 Convolutional Neural Networks
+&emsp; 3.2 Convolutional Neural Network
 
 &emsp; 3.3 YOLOv3
 
