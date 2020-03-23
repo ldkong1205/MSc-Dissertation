@@ -11,7 +11,12 @@
 
 # Abstract
 
-Data-driven signal and data modeling has received much attention recently, for its promising performance in image processing, computer vision, imaging, etc. Among many machine learning techniques, the popular deep learning has demonstrated promising performance in image-related applications. However, it is still unclear whether it can be applied to benefit various computational imaging and vision applicartions, ranging from image restoration to analysis. This project aims to develop efficient and effective deep learning algorithms for computational imaging and detection applications.
+Data-driven signal and data modeling has received much attention recently, for its promising performance in image processing, computer vision, imaging, etc. Among many machine learning techniques, the popular deep learning has demonstrated promising performance in image-related applications. However, it is still unclear whether it can be applied to benefit various computational imaging and vision applications, ranging from image restoration to analysis. 
+
+This dissertation gives a comprehensive overview of the fundamentals of deep learning in object detection, starting from the logistic regression, forward propagation, backward propagation, and optimization, to convolutional neural networks and computer vision, with a glace at some advanced topics. Some classic models, such as the LeNet-5, AlexNet, VGG-16, ResNet, and Inception, are discussed in detail. 
+
+Focusing on the object detection task, this dissertation walks through the ideas and procedures of the YOLO algorithm, step by step, and implements it to solve an object detection problem with X-ray images. Specifically, these X-ray images are fed into deep neural networks to output the classes and positions of five typical dangerous items. Experiment results verify the effectiveness of the detection algorithm for detecting objects and their positions, which gives intuitions of building a security inspection system using deep learning and computer vision techniques.
+
 
 Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 <br>
