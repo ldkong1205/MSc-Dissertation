@@ -103,7 +103,7 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 # Acknowledgement
 
-I would like to thank my advisor Prof. [WEN BIHAN](https://github.com/wenbihan) and to thank Mr. [LIU JUNHAO](https://github.com/jhliu17) for the guidance and help through this project. I would like to thank my parents and my family for supporting me to do whatever I want to do.
+I would like to thank my advisor Prof. [WEN BIHAN](https://github.com/wenbihan) and to thank Mr. [LIU JUNHAO](https://github.com/jhliu17) for the guidance and help through this project. I would like to thank my parents and my family for supporting me to do whatever I want to do. Family always comes first.
 
 
 # References
