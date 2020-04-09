@@ -98,8 +98,6 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 
 &emsp; I. Car Detection with YOLO
 
-&emsp; J. Face Recognition
-
 
 # Acknowledgement
 
