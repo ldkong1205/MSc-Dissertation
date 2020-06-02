@@ -2,7 +2,7 @@
 |---|
 # <center> 🎓 MSc Dissertation </center>
 
-🕤 Last updated: March 24, 2020
+🕤 Last updated: June 2, 2020
 
 
 # Title
@@ -18,8 +18,12 @@ This dissertation gives a comprehensive overview of the fundamentals of deep lea
 Focusing on the object detection task, this dissertation walks through the ideas and procedures of the YOLO algorithm, step by step, and implements it to solve an object detection problem with X-ray images. Specifically, these X-ray images are fed into deep neural networks to output the classes and positions of five typical dangerous items. Experiment results verify the effectiveness of the detection algorithm for detecting objects and their positions, which gives intuitions of building a security inspection system using deep learning and computer vision techniques.
 
 
-Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
+Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Images`.
 <br>
+
+# Acknowledgement
+
+I would like to thank my advisor Prof. [WEN BIHAN](https://github.com/wenbihan) and to thank Mr. [LIU JUNHAO](https://github.com/jhliu17) for the guidance and help through this project. I would like to thank my parents and my family for supporting me to do whatever I want to do. Family always comes first.
 
 
 # Table of Contents
@@ -97,11 +101,6 @@ Keywords: `Deep Learning`,  `Object Detection`,  `X-Ray Image`.
 &emsp; H. Residual Networks
 
 &emsp; I. Car Detection with YOLO
-
-
-# Acknowledgement
-
-I would like to thank my advisor Prof. [WEN BIHAN](https://github.com/wenbihan) and to thank Mr. [LIU JUNHAO](https://github.com/jhliu17) for the guidance and help through this project. I would like to thank my parents and my family for supporting me to do whatever I want to do. Family always comes first.
 
 
 # References
